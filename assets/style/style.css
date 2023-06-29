@@ -1,0 +1,46 @@
+/* BASIC STYLES HERE */
+
+.input-area {
+  height: 100dvh;
+  background-color: green;
+}
+
+.closed-gift {
+  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  height: 14rem;
+  padding: 1rem;
+}
+
+.closed-gift-info {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.699);
+}
+
+.opened-gift {
+  margin: 1rem 0;
+  height: 14rem;
+  background-color: grey;
+  text-align: cen;
+}
+
+.gift-img-container {
+  width: 100%;
+}
+
+.gift-img-container img {
+  width: 100%
+}
+
+#giftList {
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+#gifList {
+  max-height: 50vh;
+  overflow-y: scroll;
+}
